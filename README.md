@@ -11,6 +11,7 @@
 <img width="353" alt="resnet18图像分类的最佳验证精度" src="https://github.com/wtwyzc/CNN-image-classification/assets/117346587/69bdcaea-4fa3-42fc-b310-d9aab3caaf9a">
 
 ## File structure
-![Uploading 截屏2023-11-14 18.29.42.png…]()
+<img width="274" alt="截屏2023-11-14 18 30 48" src="https://github.com/wtwyzc/CNN-image-classification/assets/117346587/7153148e-2e5f-411a-82af-d45a30d1e46e">
+
 
 
